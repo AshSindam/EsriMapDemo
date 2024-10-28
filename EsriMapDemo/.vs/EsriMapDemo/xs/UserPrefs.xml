@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E5F635E2-9489-46AE-82AE-8014E1E25DA6}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_5x_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EsriMapDemo/MainPage.xaml">
+    <Files>
+      <File FileName="EsriMapDemo/MainPage.xaml.cs" />
+      <File FileName="EsriMapDemo/MainPage.xaml" Line="10" Column="1" />
+      <File FileName="EsriMapDemo/MauiProgram.cs" Line="13" Column="28" />
+      <File FileName="EsriMapDemo/App.xaml.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EsriMapDemo" expanded="True">
+            <Node name="EsriMapDemo" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="net8.0-android" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="net8.0-ios" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EsriMapDemo PreferredExecutionTarget="Android.nexus_5x_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.113" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
